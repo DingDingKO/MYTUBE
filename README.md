@@ -19,5 +19,3 @@ An email 'newsletter' which emails me a list of my youtube subscriptions at 8am 
 <p align="center">
 <img width="362" alt="Screenshot 2022-12-17 at 16 01 35" src="https://user-images.githubusercontent.com/102842055/208250735-9b51bec4-1a19-4a65-a98c-037a4dc7268e.png"><img width="630" alt="Screenshot 2022-12-17 at 15 57 25" src="https://user-images.githubusercontent.com/102842055/208250731-4b1bf05b-243a-4e91-ac9f-0f6cd558ab36.png">
 </p>
-
-(By the way, I'm rubbish at CSS so I just asked ChatGPT to design me something cool for the background)
