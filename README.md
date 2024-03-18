@@ -4,7 +4,7 @@ An alternate way to view the videos of Youtube channels you are subscribed to. R
 The implementation could have been slightly different but I made sure that it was only made from free tier products from AWS and is the most efficent use of credits in the Youtube data API. I also had to get around the limitation of not being able to use any Javascript in the email itself.
 
 ## Pre-Setup:
-* Use the Setup Tools to load the channels you are subscribed to into the channel_data.pkl and channel_data_large.pkl files (allows a different set of videos to be shown at the weekend). 
+Use the Setup Tools to load the channels you are subscribed to into the channel_data.pkl and channel_data_large.pkl files (allows a different set of videos to be shown at the weekend). 
 You will need a Youtube Data API key from the Google API Console. https://developers.google.com/youtube/v3/getting-started
 
 ## Setup:
