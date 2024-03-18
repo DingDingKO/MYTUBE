@@ -3,17 +3,18 @@ An alternate way to view the videos of Youtube channels you are subscribed to. R
 
 Utilises the functionality of 
 
-Pre-Setup:
+## Pre-Setup:
 * Use the Setup Tools to load the channels you are subscribed to into the channel_data.pkl and channel_data_large.pkl files (allows a different set of videos to be shown at the weekend). 
 You will need a Youtube Data API key from the Google API Console. https://developers.google.com/youtube/v3/getting-started
 
-Setup:
+## Setup:
+
 2 AWS Lambda functions are needed one Sender (MYTUBE) and one Reciever (MYTUBE Reciever)
 
-Reciever function:
+### Reciever function:
  * Setup a Function URL (in the Configuration tab)
 
-Sender function:
+### Sender function:
  * Setup a Layer for Pandas
  * Setup 4 Environment variables (in the Configuration tab), api_key (the API key from Youtube Data API), destination_email (the recipient of the newsletter), lambda_function_url (the Function URL of the reciever), and sender_email (the sending email address)
 
