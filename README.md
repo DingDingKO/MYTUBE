@@ -21,6 +21,6 @@ You will need a Youtube Data API key from the Google API Console. https://develo
 
 Both the sender and reciever email address need to be verified with AWS SNS 
 
-<p align="center">
-<img width="400" alt="Screenshot 2022-12-17 at 15 28 37" src="https://user-images.githubusercontent.com/102842055/208250004-bee20b61-8e95-474d-be8a-ccaf64768736.png"><img width="400" alt="Screenshot 2022-12-17 at 15 29 07" src="https://user-images.githubusercontent.com/102842055/208250014-5da3f7b6-a5da-4140-93c8-e62391f7e0a6.png">
-</p>
+
+https://github.com/DingDingKO/MYTUBE/assets/102842055/a320293e-c862-4137-a135-b1e2c6f8e8d8
+
